@@ -1,0 +1,20 @@
+{
+  "name": "lab08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "compile": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/vision": "^4.0.1",
+    "@types/node": "^16.7.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
